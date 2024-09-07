@@ -1,0 +1,5 @@
+﻿  GrowingMonster.cpp
+  Player.cpp
+C:\Users\lovej\source\repos\키우기 게임\키우기 게임\Player.cpp(102,15): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  코드를 생성하고 있습니다...
+  키우기 게임.vcxproj -> C:\Users\lovej\source\repos\키우기 게임\x64\Debug\키우기 게임.exe
